@@ -1,4 +1,4 @@
- MB<b><h1 align="center">PYTHON WHATSAPP AUTO MESSAGE BOT</h1></b>
+ MB<b><h1 align="left">PYTHON WHATSAPP AUTO MESSAGE BOT</h1></b>
 
 <p><b>0. Run the application inside the OPEN folder.</b></p>
 <p><b>1. Open whatsapp web then app.</b></p>
@@ -12,5 +12,5 @@
 <div align=left><b>Download -> https://github.com/KLYCHUB/Python-Whatsapp-Auto-Message-Bot/archive/refs/heads/master.zip | 95 MB</b></div>
 
 <hr/>
-<div align=center><img src="https://raw.githubusercontent.com/KLYCHUB/environment/main/text%20spam%20bot/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(114).png"></div>
+<div align=left><img src="https://raw.githubusercontent.com/KLYCHUB/environment/main/text%20spam%20bot/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(114).png"></div>
 <hr/>
