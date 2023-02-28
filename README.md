@@ -12,5 +12,5 @@
 <div align=left><b>Download -> https://github.com/KLYCHUB/Python-Whatsapp-Auto-Message-Bot/archive/refs/heads/master.zip | 95 MB</b></div>
 
 <hr/>
-<img align=center src="https://raw.githubusercontent.com/KLYCHUB/environment/main/text%20spam%20bot/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(114).png">
+<div align=left><img src="https://raw.githubusercontent.com/KLYCHUB/environment/main/text%20spam%20bot/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(114).png"></div>
 <hr/>
