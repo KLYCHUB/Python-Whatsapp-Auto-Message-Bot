@@ -10,6 +10,3 @@
 <p><b>7. 15 seconds before the time comes the application starts working and enters whatsapp web and sends the message within 15 seconds</b></p> 
 
 <div align=left><b>Download -> https://github.com/KLYCHUB/Python-Whatsapp-Auto-Message-Bot/archive/refs/heads/master.zip | 95 MB</b></div>
-<hr/>
-<hr/>
-<b><h5 align="center">The reason for getting the virus patient is that we convert the python file to exe file using 3rd party software. Normally python does not have such a feature. Those who want can also run it through the codes.</h5></b>
