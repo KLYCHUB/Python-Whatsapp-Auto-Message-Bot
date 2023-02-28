@@ -8,7 +8,7 @@
 <p><b>6. After starting the process, do not try to do anything or close the application or it will give an error</b></p>
 <p><b>7. 15 seconds before the time comes the application starts working and enters whatsapp web and sends the message within 15 seconds</b></p> 
 
-<div align=left><b>Download -> https://github.com/KLYCHUB/python_whatsapp_auto_message_bot/raw/master/dist/bot/bot.exe</b></div>
+<div align=left><b>Download -> https://github.com/KLYCHUB/Python-Whatsapp-Auto-Message-Bot/archive/refs/heads/master.zip</b></div>
 <hr/>
 
 <img src="">
