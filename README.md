@@ -10,3 +10,7 @@
 <p><b>7. 15 seconds before the time comes the application starts working and enters whatsapp web and sends the message within 15 seconds</b></p> 
 
 <div align=left><b>Download -> https://github.com/KLYCHUB/Python-Whatsapp-Auto-Message-Bot/archive/refs/heads/master.zip | 95 MB</b></div>
+
+<hr/>
+<img src="https://github.com/KLYCHUB/environment/blob/main/text%20spam%20bot/repeat-view-video.gif?raw=true">
+<hr/>
